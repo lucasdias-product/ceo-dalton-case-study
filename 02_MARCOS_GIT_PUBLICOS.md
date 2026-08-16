@@ -1,0 +1,54 @@
+# CEO DALTON — Marcos de evolução registrados no Git
+
+Este arquivo apresenta datas e mensagens de evolução sem expor hashes, remotes ou configuração local do repositório.
+
+- **2026-08-10** — fix(finance): incluir cancelados no historico
+- **2026-08-10** — fix(finance): conciliar saldos e preservar historico
+- **2026-08-10** — fix(ui): concluir financeiro presenca e legibilidade
+- **2026-08-10** — fix(finance): fechar realizacao e conciliacao operacional
+- **2026-08-10** — fix(app): corrigir financeiro diario presenca e contraste
+- **2026-08-09** — fix(ui): refinar r6 e redesenhar kanban
+- **2026-08-09** — refactor(ui): modernizar frontend R6
+- **2026-08-09** — fix: otimizar obras e corrigir legibilidade
+- **2026-08-08** — feat: implementar saude financeira fase 3
+- **2026-08-08** — feat: implementar operacao e ux fase 2
+- **2026-08-08** — feat: implementar base financeira confiavel fase 1
+- **2026-08-02** — fix(ui): restaura largura da lista de obras
+- **2026-08-02** — fix: corrige obras historicas e central da obra
+- **2026-08-02** — fix(ops): allow tracked environment templates in preflight
+- **2026-08-02** — ops(app): add safe manual release scripts
+- **2026-08-02** — test(app): cover navigation storage and field capture
+- **2026-08-02** — style(ui): standardize CEO DALTON visible brand
+- **2026-08-02** — feat(registro): add transcript-assisted PCP capture
+- **2026-08-02** — fix(diario): move photo storage metrics to admin
+- **2026-08-02** — fix(navigation): repair global search and sidebar navigation
+- **2026-08-02** — fix(mobile): enforce tenant isolation in contextual operations
+- **2026-08-02** — build(prod): record final mobile image validation
+- **2026-08-02** — docs(mobile): record validation and deployment gate
+- **2026-08-02** — fix(mobile): complete server-side work filters
+- **2026-08-01** — test(mobile): cover contextual responsive operations
+- **2026-08-01** — feat(mobile): streamline work attendance and finance flows
+- **2026-08-01** — feat(obras): add mobile summaries and contextual idempotency
+- **2026-08-01** — build(prod): exclude historical files from image context
+- **2026-08-01** — docs(diario): record isolated postgres and docker homologation
+- **2026-08-01** — test(diario): add postgres docker and offline homologation coverage
+- **2026-08-01** — fix(diario): isolate and persist offline photo queues
+- **2026-08-01** — fix(diario): preserve photo integrity in postgres workflows
+- **2026-08-01** — docs(diario): record storage costs validation and rollback
+- **2026-08-01** — test(diario): cover photo storage and responsive workflows
+- **2026-08-01** — perf(app): integrate work photos and split contextual chunks
+- **2026-08-01** — feat(diario): add mobile gallery and resilient uploads
+- **2026-08-01** — feat(diario): add database photo evidence and DOCX report
+- **2026-08-01** — docs(operacao): record implementation status and validation
+- **2026-08-01** — test(operacao): cover contextual work and batch workflows
+- **2026-08-01** — feat(obras): add contextual work operations center
+- **2026-08-01** — feat(operacao): add atomic contextual work services
+- **2026-07-30** — feat(pwa): add CEO Dalton branded app icon
+- **2026-07-30** — docs(ux): record v71 rollback and corrective validation
+- **2026-07-30** — fix(dashboard): recover loading and notebook layout
+- **2026-07-29** — docs(ux): record validation and production readiness
+- **2026-07-29** — test(ux): cover performance and error prevention
+- **2026-07-29** — perf(frontend): split authenticated route groups
+- **2026-07-29** — feat(operations): streamline field and diary workflows
+- **2026-07-29** — feat(ux): standardize forms feedback and safeguards
+- **2026-07-29** — feat(kanban): increase compact multi-column density
