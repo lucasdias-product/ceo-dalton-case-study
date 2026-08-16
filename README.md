@@ -263,24 +263,126 @@ Este projeto representa principalmente minha capacidade de:
 
 ---
 
-# Evidências
+# Evidências visuais do sistema
 
-Este case está sendo documentado com:
+As imagens abaixo mostram módulos reais do **CEO DALTON** em operação.
 
-- histórico de evolução;
-- registros Git;
-- documentação;
-- screenshots sanitizados;
-- arquitetura;
-- exemplos de fluxos;
-- demonstração do sistema.
+Para preservar a confidencialidade da Dalton Engenharia, dados de clientes, funcionários, obras, valores financeiros e informações internas foram ocultados nas versões públicas.
 
-Arquivos públicos disponíveis neste repositório:
+## Dashboard Operacional
 
-- `01_CHANGELOG_PUBLICO_SANITIZADO.md`
-- `02_MARCOS_GIT_PUBLICOS.md`
+Visão executiva criada para reunir informações financeiras, operacionais e de obras em um único ambiente de decisão.
 
-Novas evidências serão adicionadas progressivamente.
+<img src="assets/screenshots/01_dashboard_publico.png" alt="Dashboard Operacional do CEO DALTON" width="100%">
+
+**O que esta tela demonstra:**
+- consolidação de indicadores;
+- visão financeira;
+- acompanhamento operacional;
+- alertas e prioridades;
+- leitura de obras;
+- atalhos para rotinas recorrentes;
+- gráficos para apoio à decisão.
+
+---
+
+## Obras e Atendimentos
+
+Ambiente central para cadastro, acompanhamento e análise das obras e serviços da empresa.
+
+<img src="assets/screenshots/02_obras_atendimentos_publico.png" alt="Obras e Atendimentos do CEO DALTON" width="100%">
+
+**O que esta tela demonstra:**
+- organização das obras em andamento;
+- centralização de dados operacionais;
+- acompanhamento de custos;
+- análise de resultado;
+- vínculo entre obra, financeiro, compras, cronograma e equipe;
+- visão consolidada de cada atendimento.
+
+---
+
+## Financeiro
+
+Módulo construído para controlar entradas, saídas, vencimentos, previsões e movimentações financeiras conectadas à operação.
+
+<img src="assets/screenshots/03_financeiro_publico.png" alt="Módulo Financeiro do CEO DALTON" width="100%">
+
+**O que esta tela demonstra:**
+- entradas e saídas;
+- contas previstas;
+- vencimentos;
+- organização por competência;
+- separação entre realizado e previsto;
+- integração entre financeiro e obras.
+
+Uma preocupação importante do projeto foi evitar que eventos operacionais gerassem movimentações financeiras irreversíveis sem confirmação adequada.
+
+---
+
+## Presença e Produção
+
+Controle operacional utilizado para registrar presença, horas trabalhadas, custo de mão de obra e vínculo com a obra correta.
+
+<img src="assets/screenshots/04_presenca_producao_publico.png" alt="Presença e Produção do CEO DALTON" width="100%">
+
+**O que esta tela demonstra:**
+- registro de presença;
+- cálculo de horas e diária;
+- apropriação de mão de obra;
+- associação entre funcionário e obra;
+- conferência antes da geração financeira;
+- histórico operacional.
+
+Esse módulo exemplifica um dos princípios do sistema:
+
+**um registro operacional pode alimentar custos e indicadores sem necessariamente gerar uma saída financeira automática.**
+
+---
+
+## Registros de Campo e PCP
+
+Área voltada ao planejamento, realizado e acompanhamento diário da execução.
+
+<img src="assets/screenshots/05_registros_campo_publico.png" alt="Registros de Campo e PCP do CEO DALTON" width="100%">
+
+**O que esta tela demonstra:**
+- planejamento mensal;
+- registro do realizado;
+- observações operacionais;
+- acompanhamento por funcionário;
+- acompanhamento por obra;
+- comparação entre planejamento e execução;
+- apoio a lançamentos assistidos.
+
+O objetivo foi transformar informações de campo em dados estruturados para acompanhamento da operação.
+
+---
+
+## Diário de Obra
+
+Calendário operacional criado para organizar registros diários das obras e facilitar a consulta histórica.
+
+<img src="assets/screenshots/06_diario_obra_publico.png" alt="Diário de Obra do CEO DALTON" width="100%">
+
+**O que esta tela demonstra:**
+- registros por obra e data;
+- histórico de execução;
+- calendário mensal;
+- status dos registros;
+- centralização das informações de campo;
+- preparação de documentação e relatórios.
+
+---
+
+# Evidências documentais
+
+Além das telas, este repositório contém documentos públicos sanitizados que registram a evolução do projeto:
+
+- [CHANGELOG público sanitizado](01_CHANGELOG_PUBLICO_SANITIZADO.md)
+- [Marcos de evolução registrados no Git](02_MARCOS_GIT_PUBLICOS.md)
+
+Essas evidências ajudam a demonstrar que o sistema foi evoluído ao longo do tempo e não criado apenas para apresentação de portfólio.
 
 ---
 
