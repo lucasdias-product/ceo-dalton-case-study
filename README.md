@@ -60,25 +60,23 @@ Era transformar informações isoladas em um **fluxo operacional conectado**.
 
 # Visão do sistema
 
-Um exemplo simplificado:
+### Fluxo operacional simplificado
 
-```text
-OBRA
- ↓
-PLANEJAMENTO
- ↓
-EXECUÇÃO
- ↓
-PRESENÇA / PRODUÇÃO
- ↓
-CUSTOS
- ↓
-FINANCEIRO
- ↓
-INDICADORES
- ↓
-DECISÃO
-```
+**Obra**  
+↓  
+**Planejamento**  
+↓  
+**Execução**  
+↓  
+**Presença / Produção**  
+↓  
+**Custos**  
+↓  
+**Financeiro**  
+↓  
+**Indicadores**  
+↓  
+**Decisão**
 
 Um registro realizado em uma etapa pode alimentar outras partes da operação.
 
@@ -136,21 +134,19 @@ O objetivo é apresentar o processo de criação do produto, decisões, problema
 
 Presença de funcionário não deveria ser apenas um registro isolado.
 
-Ela pode participar de um fluxo como:
+### Exemplo de encadeamento
 
-```text
-PRESENÇA
-   ↓
-HORAS / DIÁRIA
-   ↓
-CUSTO DE MÃO DE OBRA
-   ↓
-CUSTO DA OBRA
-   ↓
-PLANEJADO X REALIZADO
-   ↓
-INDICADORES
-```
+**Presença**  
+↓  
+**Horas / diária**  
+↓  
+**Custo de mão de obra**  
+↓  
+**Custo da obra**  
+↓  
+**Planejado × realizado**  
+↓  
+**Indicadores**
 
 Ao mesmo tempo, a criação de uma movimentação financeira exige regras próprias e confirmação adequada.
 
@@ -166,23 +162,23 @@ O sistema é utilizado dentro da operação da Dalton Engenharia.
 
 Novas necessidades surgem durante o uso e são transformadas em:
 
-```text
-PROBLEMA
-   ↓
-ANÁLISE
-   ↓
-REQUISITO
-   ↓
-IMPLEMENTAÇÃO
-   ↓
-TESTE
-   ↓
-VALIDAÇÃO
-   ↓
-USO
-   ↓
-MELHORIA
-```
+### Ciclo de evolução
+
+**Problema**  
+↓  
+**Análise**  
+↓  
+**Requisito**  
+↓  
+**Implementação**  
+↓  
+**Teste**  
+↓  
+**Validação**  
+↓  
+**Uso**  
+↓  
+**Melhoria**
 
 ---
 
@@ -213,27 +209,25 @@ Esses problemas fizeram parte do processo real de evolução do sistema.
 
 A Inteligência Artificial foi utilizada como ferramenta de aceleração técnica.
 
-O processo normalmente seguia esta lógica:
+### Processo de trabalho
 
-```text
-PROBLEMA
-   ↓
-ANÁLISE DA OPERAÇÃO
-   ↓
-DEFINIÇÃO DA REGRA
-   ↓
-ESPECIFICAÇÃO
-   ↓
-IMPLEMENTAÇÃO ASSISTIDA POR IA
-   ↓
-TESTE
-   ↓
-ANÁLISE DO RESULTADO
-   ↓
-CORREÇÃO
-   ↓
-VALIDAÇÃO
-```
+**Problema**  
+↓  
+**Análise da operação**  
+↓  
+**Definição da regra**  
+↓  
+**Especificação**  
+↓  
+**Implementação assistida por IA**  
+↓  
+**Teste**  
+↓  
+**Análise do resultado**  
+↓  
+**Correção**  
+↓  
+**Validação**
 
 A IA auxiliou principalmente em:
 
