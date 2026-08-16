@@ -267,13 +267,13 @@ Este projeto representa principalmente minha capacidade de:
 
 As imagens abaixo mostram módulos reais do **CEO DALTON** em operação.
 
-Para preservar a confidencialidade da Dalton Engenharia, dados de clientes, funcionários, obras, valores financeiros e informações internas foram ocultados nas versões públicas.
+Somente dados empresariais e pessoais foram anonimizados. A estrutura, os fluxos e a interface permanecem visíveis.
 
 ## Dashboard Operacional
 
 Visão executiva criada para reunir informações financeiras, operacionais e de obras em um único ambiente de decisão.
 
-<img src="assets/screenshots/01_dashboard_publico.png" alt="Dashboard Operacional do CEO DALTON" width="100%">
+<img src="assets/screenshots/01_dashboard_publico_v2.png" alt="Dashboard Operacional do CEO DALTON" width="100%">
 
 **O que esta tela demonstra:**
 - consolidação de indicadores;
@@ -290,7 +290,7 @@ Visão executiva criada para reunir informações financeiras, operacionais e de
 
 Ambiente central para cadastro, acompanhamento e análise das obras e serviços da empresa.
 
-<img src="assets/screenshots/02_obras_atendimentos_publico.png" alt="Obras e Atendimentos do CEO DALTON" width="100%">
+<img src="assets/screenshots/02_obras_atendimentos_publico_v2.png" alt="Obras e Atendimentos do CEO DALTON" width="100%">
 
 **O que esta tela demonstra:**
 - organização das obras em andamento;
@@ -306,7 +306,7 @@ Ambiente central para cadastro, acompanhamento e análise das obras e serviços 
 
 Módulo construído para controlar entradas, saídas, vencimentos, previsões e movimentações financeiras conectadas à operação.
 
-<img src="assets/screenshots/03_financeiro_publico.png" alt="Módulo Financeiro do CEO DALTON" width="100%">
+<img src="assets/screenshots/03_financeiro_publico_v2.png" alt="Módulo Financeiro do CEO DALTON" width="100%">
 
 **O que esta tela demonstra:**
 - entradas e saídas;
@@ -324,7 +324,7 @@ Uma preocupação importante do projeto foi evitar que eventos operacionais gera
 
 Controle operacional utilizado para registrar presença, horas trabalhadas, custo de mão de obra e vínculo com a obra correta.
 
-<img src="assets/screenshots/04_presenca_producao_publico.png" alt="Presença e Produção do CEO DALTON" width="100%">
+<img src="assets/screenshots/04_presenca_producao_publico_v2.png" alt="Presença e Produção do CEO DALTON" width="100%">
 
 **O que esta tela demonstra:**
 - registro de presença;
@@ -344,7 +344,7 @@ Esse módulo exemplifica um dos princípios do sistema:
 
 Área voltada ao planejamento, realizado e acompanhamento diário da execução.
 
-<img src="assets/screenshots/05_registros_campo_publico.png" alt="Registros de Campo e PCP do CEO DALTON" width="100%">
+<img src="assets/screenshots/05_registros_campo_publico_v2.png" alt="Registros de Campo e PCP do CEO DALTON" width="100%">
 
 **O que esta tela demonstra:**
 - planejamento mensal;
@@ -363,7 +363,7 @@ O objetivo foi transformar informações de campo em dados estruturados para aco
 
 Calendário operacional criado para organizar registros diários das obras e facilitar a consulta histórica.
 
-<img src="assets/screenshots/06_diario_obra_publico.png" alt="Diário de Obra do CEO DALTON" width="100%">
+<img src="assets/screenshots/06_diario_obra_publico_v2.png" alt="Diário de Obra do CEO DALTON" width="100%">
 
 **O que esta tela demonstra:**
 - registros por obra e data;
